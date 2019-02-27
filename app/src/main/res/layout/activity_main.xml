@@ -14,4 +14,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
+    <Button
+            android:text="ACTIVITY HOOK"
+            android:id="@+id/btn_activity_hook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
 </LinearLayout>
